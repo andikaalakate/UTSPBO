@@ -1,0 +1,9 @@
+# NetBeans build & runtime files
+build/
+dist/
+nbproject/private/
+*.class
+*.jar
+*.log
+hs_err_pid*
+replay_pid*
